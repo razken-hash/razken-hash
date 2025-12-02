@@ -1,8 +1,22 @@
-### Hi there 👋
-    🚀 I'm AbdErrazak KENNICHE, a passionate mobile developer hailing from Algeria. I specialize in SwiftUI for iOS development & harness the power of Flutter for cross-platform solutions. When it comes to backend magic, I'm a Java & Spring enthusiast.
-#
-    🚀 I thrive on exploring System Design, Software Architectures, and Design Patterns. My GitHub is a playground for innovative projects and a showcase of my journey in the tech world. Let's connect, collaborate, and build awesome things together!
+### Hi there 👋  
 
+🚀 I'm **AbdErrazak KENNICHE**, a passionate **Full-Stack Web Developer** specialized in **Java & Spring Boot** on the backend and **Angular** on the frontend. I build robust, scalable, and elegant web applications from end to end, always focusing on clean architecture, performance, and maintainability.
+
+---
+
+### 💻 What I Do  
+- **Backend:** Java, Spring Boot, REST APIs, Microservices  
+- **Frontend:** Angular, TypeScript, Responsive UI development  
+- **Architecture:** System Design, Software Architecture, Design Patterns  
+- **Mobile:** Cross-platform app development using **Flutter**
+
+---
+
+### 🌟 About Me  
+I thrive on designing efficient systems, exploring advanced architectural concepts, and turning ideas into high-quality software.  
+My GitHub is my creative space—showcasing real-world projects, experiments, and my continuous growth as an engineer.
+
+Let’s connect, collaborate, and build awesome things together! 🚀
 
 
 ## 🌐 Socials:
